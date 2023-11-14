@@ -43,7 +43,7 @@ export default function Component(props) {
           ctaLink="/about"
           ctaLabel="About"
           title="Promo Banners"
-          description="You can use this component to promote articles or specific products. And optionally add a CTA below."
+          description="You can use this component to promote articles or specific products. And optionally add a CTA below. Making a change"
         />
       </Main>
       <Footer title={siteTitle} menuItems={footerMenu} />
