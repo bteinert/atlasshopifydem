@@ -37,7 +37,7 @@ export default function Component(props) {
         <ContentWrapper content={content} />
         <ProductSection heading="New Arrivals" products={latestProducts} />
         <TestimonialsSection />
-        <ProductSection heading="On Sale" products={saleProducts} />
+        <ProductSection heading="On 2 Sale" products={saleProducts} />
         <PromoSection
           showCta
           ctaLink="/about"
